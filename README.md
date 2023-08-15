@@ -5,4 +5,7 @@
 4. Product of array except for self
 5. Maximum subarray
 6. Maximum product subarray
-7. Find minimum in rotated sorted array
+7. Find the minimum in a rotated sorted array
+8. Search in rotated sorted array
+9. 3 Sum
+10. Container with most water
