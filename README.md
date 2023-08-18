@@ -17,3 +17,5 @@
 16. Climbing Stairs
 17. Coin Change
 18. Longest Increasing Subsequence
+19. Longest Common Subsequence
+20. Word Break Problem
