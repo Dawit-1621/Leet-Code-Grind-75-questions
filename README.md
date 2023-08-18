@@ -15,3 +15,5 @@
 14. Missing Number
 15. Reverse Bits
 16. Climbing Stairs
+17. Coin Change
+18. Longest Increasing Subsequence
