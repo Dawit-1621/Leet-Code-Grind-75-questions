@@ -23,3 +23,5 @@
 22. House Robber
 23. House Robber II
 24. Decode Ways
+25. Unique Paths
+26. Jump Game
