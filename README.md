@@ -8,3 +8,6 @@
 7. Find the minimum in a rotated sorted array
 8. Search in a rotated sorted array
 9. 3 Sum
+10. Container With Most Water
+11. Sum of Two Integers
+12. Number of 1 Bit
