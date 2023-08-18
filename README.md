@@ -13,3 +13,5 @@
 12. Number of 1 Bit
 13. Counting Bits
 14. Missing Number
+15. Reverse Bits
+16. Climbing Stairs
