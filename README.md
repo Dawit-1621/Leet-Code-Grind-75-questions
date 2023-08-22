@@ -22,4 +22,3 @@
 21. Combination Sum
 22. House Robber
 23. House Robber II
-24. Decode Ways
