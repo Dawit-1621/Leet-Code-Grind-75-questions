@@ -19,4 +19,3 @@
 18. Longest Increasing Subsequence
 19. Longest Common Subsequence
 20. Word Break Problem
-21. Combination Sum
