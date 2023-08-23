@@ -9,4 +9,3 @@
 8. Search in a rotated sorted array
 9. 3 Sum
 10. Container With Most Water
-11. Sum of Two Integers
