@@ -12,4 +12,3 @@
 11. Sum of Two Integers
 12. Number of 1 Bit
 13. Counting Bits
-14. Missing Number
