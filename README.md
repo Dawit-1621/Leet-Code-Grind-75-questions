@@ -11,4 +11,3 @@
 10. Container With Most Water
 11. Sum of Two Integers
 12. Number of 1 Bit
-13. Counting Bits
