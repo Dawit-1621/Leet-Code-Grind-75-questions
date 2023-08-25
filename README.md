@@ -7,4 +7,3 @@
 6. Maximum product subarray
 7. Find the minimum in a rotated sorted array
 8. Search in a rotated sorted array
-9. 3 Sum
