@@ -1,3 +1,2 @@
 ## Leet Code Grind 75 questions
 1. Two Sum
-2. Best Time to buy and sell Stock
